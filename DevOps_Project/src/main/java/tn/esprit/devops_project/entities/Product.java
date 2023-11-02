@@ -7,6 +7,7 @@ import lombok.experimental.FieldDefaults;
 import javax.persistence.*;
 import java.io.Serializable;
 
+
 @Entity
 @Getter
 @Setter
